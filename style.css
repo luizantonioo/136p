@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	box-shadow:5px 5px yellow ;
+	padding:25px ;
+	margin:100% ;
+}
